@@ -7,3 +7,5 @@
               from google.colab import files
               files.download("Dhaka_ai_YOLOv5.pdf")
 ## For Compress :  Use https://pdfcompressor.com/ Site
+
+
