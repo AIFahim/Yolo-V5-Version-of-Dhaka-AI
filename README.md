@@ -8,4 +8,4 @@
               files.download("Dhaka_ai_YOLOv5.pdf")
 ## For Compress :  Use https://pdfcompressor.com/ Site
 
-
+# Finsh With Rank 49 With	0.1113 Accuracy. Team Name : AutoBot
