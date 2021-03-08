@@ -29,10 +29,10 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 <hr>
 
  - ipynb file to pdf(For Size)(Colab):
-   `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc'<br>
-    `!pip install pypandoc`<br>
-    `from google.colab import files`<br>
-    `files.download("Dhaka_ai_YOLOv5.pdf")`<br>
+   `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc'\
+    `!pip install pypandoc`\
+    `from google.colab import files`\
+    `files.download("Dhaka_ai_YOLOv5.pdf")`\
  - For Compress :  Use https://pdfcompressor.com/ Site
 
 <hr>
