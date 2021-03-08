@@ -29,7 +29,7 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 <hr>
 
  - ipynb file to pdf(For Size)(Colab):
-   `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc'\
+   `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc`\
     `!pip install pypandoc`\
     `from google.colab import files`\
     `files.download("Dhaka_ai_YOLOv5.pdf")`\
