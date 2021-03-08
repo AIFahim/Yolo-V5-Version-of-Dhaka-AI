@@ -24,7 +24,7 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <img src="https://drive.google.com/uc?export=view&id=1iJcEdZGiJjXvlbDtShVE6zijFIZeUz0h" width="430" height="250"/>
 
-### Used: Yolov5 min with BS 8
+### Used Setting for contest: Yolov5 min with Batch Size 8.
 
 <hr>
 
