@@ -27,7 +27,7 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 ### Used Setting for contest: Yolov5 min with Batch Size 8.
 
 <hr>
-### Conversion ipynb to Pdf :
+### Conversion ipynb to Pdf :\
  - ipynb file to pdf(For Size)(Colab):\
     `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc`\
     `!pip install pypandoc`\
