@@ -1,7 +1,7 @@
 # Solution of Dhaka AI
 
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
-[![License Badge](https://img.shields.io/badge/license-Apache License 2.0-blue)](https://github.com/AIFahim/Yolo-V5-Version-of-Dhaka-AI/blob/main/LICENSE)
+[![License Badge](https://img.shields.io/badge/license-Apache%2.0-blue)](https://github.com/AIFahim/Yolo-V5-Version-of-Dhaka-AI/blob/main/LICENSE)
 
 
 
