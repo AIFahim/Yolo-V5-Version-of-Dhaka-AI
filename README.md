@@ -1,8 +1,7 @@
 # Solution of Dhaka AI
-# New Connection Chat Bot
 
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
-[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/New-Connection-Chat-Bot/blob/master/LICENSE)
+[![License Badge](https://img.shields.io/badge/license-Apache License 2.0-blue)](https://github.com/AIFahim/Yolo-V5-Version-of-Dhaka-AI/blob/main/LICENSE)
 
 
 
@@ -17,7 +16,7 @@ Linkedin: https://www.linkedin.com/in/AIFahim/ </br>
 Email: asif.iqbal.fahim.bd@gmail.com <br>
 <hr>
 
-# Finsh With Rank 49 With	0.1113 Accuracy. Team Name : AutoBot
+## Finsh With Rank 49 With	0.1113 Accuracy. Team Name : AutoBot
 
 <img src="https://user-images.githubusercontent.com/33654834/102253813-05041380-3f32-11eb-8142-dd032e8285d2.png" width="430" height="250"/>
 
