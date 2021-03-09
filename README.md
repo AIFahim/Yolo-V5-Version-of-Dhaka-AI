@@ -30,7 +30,7 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <hr>
 
-### Conversion ipynb to Pdf(This is for github upload purpose. not for the contest!) :
+### Conversion ipynb to Pdf(This is for github upload purpose. not for the contest) :
  - ipynb file to pdf(For Size)(Colab):\
     `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc`\
     `!pip install pypandoc`\
