@@ -23,9 +23,9 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <hr>
 
-<img src="https://drive.google.com/uc?export=view&id=1iJcEdZGiJjXvlbDtShVE6zijFIZeUz0h" width="430" height="250"/>
+## Solution Setting :
 
- <span style="color:blue">Used Setting for contest: Yolov5m with Batch Size 8.</span>.
+<img src="https://drive.google.com/uc?export=view&id=1iJcEdZGiJjXvlbDtShVE6zijFIZeUz0h" width="430" height="250"/>
 
 ### Used Setting for contest: Yolov5m with Batch Size 8.
 
