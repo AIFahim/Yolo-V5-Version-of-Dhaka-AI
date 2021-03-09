@@ -1,4 +1,4 @@
-# Solution of Dhaka AI
+# Solution of [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index)
 
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
 [![License Badge](https://img.shields.io/badge/license-Apache2.0-blue)](https://github.com/AIFahim/Yolo-V5-Version-of-Dhaka-AI/blob/main/LICENSE)
@@ -22,7 +22,15 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <hr>
 
-## Solution Setting :
+### [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index) Datasets Link :
+   - [ Competition Dataset ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/POREXF)
+   - [ YoloV5 Formatted Dataset ](https://www.kaggle.com/aifahim/dhakaaiyoloformatteddataset)
+
+<hr>
+
+
+
+### Solution Setting :
 
 <img src="https://drive.google.com/uc?export=view&id=1iJcEdZGiJjXvlbDtShVE6zijFIZeUz0h" width="430" height="250"/>
 
