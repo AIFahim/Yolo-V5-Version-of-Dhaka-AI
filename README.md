@@ -38,6 +38,10 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <hr>
 
+### Trained weight files are available in Kaggle. Check out [Link ](https://www.kaggle.com/aifahim/dhaka-ai-traffic-challenge-weights-yolov5)
+
+<hr>
+
 ### Conversion ipynb to Pdf (This is for github upload purpose. not for the contest) :
  - ipynb file to pdf(For Size)(Colab):\
     `!apt-get install texlive texlive-xetex texlive-latex-extra pandoc`\
